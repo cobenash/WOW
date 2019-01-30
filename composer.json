@@ -1,0 +1,6 @@
+{
+  "name": "hellosanta/wow",
+  "description": "wowjs for drupal8 animations library",
+  "keywords": ["wowjs", "animations", "Drupal"],
+  "type": "drupal-library"
+}
